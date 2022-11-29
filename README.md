@@ -19,7 +19,7 @@ Instead of wasting extra time to figure them out, clone this project and use the
 **Warning: Only tested in Unity 2021**
 
 0. Make sure the Oculus Link to your quest works appropriately and that all the external developer-related cases irrelevant to Unity already work as expected. Make sure your Unity Account has the Oculus Intergration Package.
-1. Download or clone this project (**Warning: ~500MB**)
+1. Download or clone this project
 2. Copy or move the `OculusQuestTemplate` folder to somewhere you want, and rename it to satisfy your need(not necessary but recommended)
 3. Open `Unity Hub` and add that new folder from `Open/Add project from disk.` to your Unity Hub Environment.
 4. Get a cup of coffee, and wait. This process takes a long time for the first-time compiling.
